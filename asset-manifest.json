@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/solita-name-app/static/css/main.43b006d6.chunk.css",
+    "main.js": "/solita-name-app/static/js/main.c0f0122a.chunk.js",
+    "main.js.map": "/solita-name-app/static/js/main.c0f0122a.chunk.js.map",
+    "runtime-main.js": "/solita-name-app/static/js/runtime-main.69a05981.js",
+    "runtime-main.js.map": "/solita-name-app/static/js/runtime-main.69a05981.js.map",
+    "static/js/2.7e028d49.chunk.js": "/solita-name-app/static/js/2.7e028d49.chunk.js",
+    "static/js/2.7e028d49.chunk.js.map": "/solita-name-app/static/js/2.7e028d49.chunk.js.map",
+    "static/js/3.9eaf1371.chunk.js": "/solita-name-app/static/js/3.9eaf1371.chunk.js",
+    "static/js/3.9eaf1371.chunk.js.map": "/solita-name-app/static/js/3.9eaf1371.chunk.js.map",
+    "index.html": "/solita-name-app/index.html",
+    "static/css/main.43b006d6.chunk.css.map": "/solita-name-app/static/css/main.43b006d6.chunk.css.map",
+    "static/js/2.7e028d49.chunk.js.LICENSE.txt": "/solita-name-app/static/js/2.7e028d49.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.69a05981.js",
+    "static/js/2.7e028d49.chunk.js",
+    "static/css/main.43b006d6.chunk.css",
+    "static/js/main.c0f0122a.chunk.js"
+  ]
+}
