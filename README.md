@@ -10,6 +10,8 @@ User interface meets all requirements:
 
 I import names from a local json file, but I understand that in real-world situation it might need to be loaded from remote url. 
 
+Solution features fully responsive, mobile friendly design with css @media query, and also the BEM methodology for naming css selectors.
+
 See [LIVE DEMO HERE](https://aseeva-es.github.io/solita-name-app).
 
 
